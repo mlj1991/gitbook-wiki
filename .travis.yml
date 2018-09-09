@@ -6,7 +6,6 @@ branches:
   - master
 before_install:
 - npm install gitbook-cli -g
-- npm install gulp-cli -g
 install:
 - npm install
 script:
