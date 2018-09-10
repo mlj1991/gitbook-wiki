@@ -8,3 +8,4 @@
   * [Language](programming/language/README.md)
     * [Go](programming/language/go.md)
     * [Lisp](programming/language/lisp.md)
+* [Internationalization](i18n/README.md)
