@@ -18,8 +18,7 @@
 3. 新接触的编程语言先用VSCode写，Emacs慢慢配环境
 4. 查看大型项目的代码时会用IntelliJ IDEA等重量级IDE
 
+之后详细写写这几个编辑器吧
 * Emacs
-
 * Vim
-
 * Visual Studio Code
