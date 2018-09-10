@@ -6,7 +6,8 @@ branches:
   - master
 before_install:
 - npm install gitbook-cli -g
-install: true
+install:
+- gitbook install
 script:
 - gitbook build
 deploy:
