@@ -4,8 +4,8 @@
 
 ## 技术博客
 
-* (心内求法)[http://holbrook.github.io/2012/04/14/emacs_orgmode_task.html]
-* (阮一峰)[http://www.ruanyifeng.com/home.html]
-* (GeekPlux)[https://geekplux.com/]
+* [心内求法](http://holbrook.github.io/2012/04/14/emacs_orgmode_task.html)
+* [阮一峰](http://www.ruanyifeng.com/home.html)
+* [GeekPlux](https://geekplux.com/)
 
 
